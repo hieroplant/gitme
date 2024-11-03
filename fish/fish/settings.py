@@ -148,3 +148,5 @@ NPM_BIN_PATH = r"C:\Program Files\nodejs\npm.cmd"
 # ]
 
 STATICFILES_DIRS = (os.path.join(BASE_DIR, 'static'), )
+
+#test commit
